@@ -4,10 +4,7 @@
 :boom: **Good news! A comprehensive list of [Awesome Document Image Rectification](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) methods is available.** 
 
 # DocTr++
-The official code for “Deep Unrestricted Document Image Rectification”.
 ![Demo](assets/github_demo.png)
-
-
 Any questions or discussions are welcomed!
 
 
