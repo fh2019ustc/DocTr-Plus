@@ -86,7 +86,7 @@ def main():
     parser = argparse.ArgumentParser() 
     parser.add_argument('--distorrted_path',  default='./distorted/')
     parser.add_argument('--gsave_path',  default='./geo_rec/')
-    parser.add_argument('--GeoTr_path',  default='./model_pretrained/geotr.pth')
+    parser.add_argument('--GeoTr_path',  default='./model_pretrained/DocTrP.pth')
     
     opt = parser.parse_args()
 
