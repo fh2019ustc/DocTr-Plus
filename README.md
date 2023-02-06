@@ -1,13 +1,10 @@
-# DocTr-Plus
-The official code for “Deep Unrestricted Document Image Rectification”.
-
 :boom: **Good news! Our new work exhibits state-of-the-art performances on the [DocUNet Benchmark](https://www3.cs.stonybrook.edu/~cvl/docunet.html) dataset:
 [DocScanner: Robust Document Image Rectification with Progressive Learning](https://drive.google.com/file/d/1mmCUj90rHyuO1SmpLt361youh-07Y0sD/view?usp=share_link)** with [Repo](https://github.com/fh2019ustc/DocScanner).
 
 :boom: **Good news! A comprehensive list of [Awesome Document Image Rectification](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) methods is available.** 
 
-
 # DocTr++
+The official code for “Deep Unrestricted Document Image Rectification”.
 ![Demo](assets/github_demo.png)
 
 
@@ -20,7 +17,7 @@ Any questions or discussions are welcomed!
 
 
 ## Inference 
-1. Download the pretrained models from [Google Drive](https://drive.google.com/drive/folders/1eZRxnRVpf5iy3VJakJNTKWw5Zk9g-F_0?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1Cq9bfyAJ9MWwxj0CarqmKw?pwd=jmy1), and put them to `$ROOT/model_pretrained/`.
+1. Download the pretrained models from [Google Drive](https://drive.google.com/drive/folders/1eZRxnRVpf5iy3VJakJNTKWw5Zk9g-F_0?usp=sharing), and put them to `$ROOT/model_pretrained/`.
 2. Put the distorted images in `$ROOT/distorted/`.
 3. Geometric unwarping. The rectified images are saved in `$ROOT/rectified/` by default.
     ```
