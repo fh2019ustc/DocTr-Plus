@@ -21,7 +21,7 @@ def Levenshtein_Distance(str1, str2):
 def cal_cer_ed(path_ours, tail='_rec'):
     print(path_ours, 'start')
     print(f"started at {time.strftime('%H:%M:%S')}")
-    path_gt = './GT/'
+    path_gt = './scan/'
     N = 196
     cer1 = []
     ed1 = []
