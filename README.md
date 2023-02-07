@@ -23,7 +23,7 @@ Any questions or discussions are welcomed!
 
 ## Evaluation
 - ***Image Metrics:***  We propose the metrics MS-SSIM-M and LD-M, different from that for [DocUNet Benchmark](https://www3.cs.stonybrook.edu/~cvl/docunet.html) dataset. We use Matlab 2019a. Please compare the scores according to your Matlab version. We provide our Matlab interface file at ```$ROOT/ssim_ld_eval.m```.
-- ***OCR Metrics:*** The index of 70 document (70 images) in UDIR test set used for our OCR evaluation is provided in ```$ROOT/ocr_eval.py```. 
+- ***OCR Metrics:*** The index of 70 document (70 images) in [UDIR test set](https://drive.google.com/drive/folders/15rknyt7XE2k6jrxaTc_n5dzXIdCukJLh?usp=share_link) used for our OCR evaluation is provided in ```$ROOT/ocr_eval.py```. 
 The version of pytesseract is 0.3.8, and the version of [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/) in Windows is recent 5.0.1.20220118. 
 Note that in different operating systems, the calculated performance has slight differences.
 
