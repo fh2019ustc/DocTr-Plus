@@ -1,0 +1,7 @@
+numpy==1.19.0
+opencv_python==4.2.0.34
+Pillow==9.4.0
+scikit_image==0.17.2
+skimage==0.0
+thop==0.1.1.post2209072238
+torch==1.5.1+cu101
