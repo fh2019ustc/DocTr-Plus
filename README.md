@@ -5,6 +5,10 @@
 
 # DocTr++
 ![Demo](assets/github_demo.png)
+> [DocTr++: Deep Unrestricted Document Image Rectification](https://drive.google.com/file/d/1EZM1T733Ouyu-8xwF-U3aYubavB1zuQa/view?usp=share_link)
+
+> DocTr++ is an enhanced version of the original [DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction](https://github.com/fh2019ustc/DocTr), aiming to rectify various distorted document images in the wild without any boundary restrictions.
+
 Any questions or discussions are welcomed!
 
 
@@ -14,9 +18,9 @@ Any questions or discussions are welcomed!
 
 
 ## Demo 
-1. Download the pretrained models, and put them to `$ROOT/model_pretrained/`.
+1. Put the pretrained model to `$ROOT/model_pretrained/`.
 2. Put the distorted images in `$ROOT/distorted/`.
-3. Geometric unwarping. The rectified images are saved in `$ROOT/rectified/` by default.
+3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
     ```
     python inference.py
     ```
