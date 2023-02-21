@@ -13,11 +13,6 @@ whether or not the document is fully present in the image.
 Any questions or discussions are welcomed!
 
 
-## Training
-
-- For geometric unwarping, we train the network using the [Doc3D](https://github.com/fh2019ustc/doc3D-dataset) dataset.
-
-
 ## Demo 
 1. Put the pretrained model to `$ROOT/model_pretrained/`.
 2. Put the distorted images in `$ROOT/distorted/`.
