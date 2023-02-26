@@ -21,7 +21,7 @@ for i=1:195
     ref_msk = ref;
     A1 = imresize(A1,[size(ref,1),size(ref,2)]);
     
-    # mask the gt image
+    % mask the gt image
     m1 = A1 == 0;
     ref_msk(m1) = 0;
     
