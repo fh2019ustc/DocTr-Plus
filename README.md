@@ -5,6 +5,7 @@
 
 # DocTr++
 ![Demo](assets/github_demo.png)
+![Demo](assets/github_demo_v2.png)
 > **DocTr++: Deep Unrestricted Document Image Rectification**
 
 > DocTr++ is an enhanced version of the original [DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction](https://github.com/fh2019ustc/DocTr), aiming to rectify various distorted document images in the wild,
