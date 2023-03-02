@@ -45,7 +45,7 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 @article{feng2023doctrp,
   title={Deep Unrestricted Document Image Rectification},
-  author={Feng, Hao and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Wu, Feng and Li, Houqiang},
+  author={Feng, Hao and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
   journal={arXiv},
   year={2023}
 }
