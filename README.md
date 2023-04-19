@@ -1,4 +1,4 @@
-🚀 **Exciting update! We have created a demo for our paper, showcasing the genric rectification capabilities of our method. [Check it out here!](https://doctrp.docscanner.top/)**
+🚀 **Exciting update! We have created a demo for our paper, showcasing the generic rectification capabilities of our method. [Check it out here!](https://doctrp.docscanner.top/)**
 
 
 🔥 **Good news! Our new work exhibits state-of-the-art performances on the [DocUNet Benchmark](https://www3.cs.stonybrook.edu/~cvl/docunet.html) dataset:
