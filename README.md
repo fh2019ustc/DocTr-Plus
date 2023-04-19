@@ -1,3 +1,6 @@
+🚀 **Exciting update! We have created a demo for our paper, showcasing the genric rectification capabilities of our method. [Check it out here!](https://doctrp.docscanner.top/)**
+
+
 🔥 **Good news! Our new work exhibits state-of-the-art performances on the [DocUNet Benchmark](https://www3.cs.stonybrook.edu/~cvl/docunet.html) dataset:
 [DocScanner: Robust Document Image Rectification with Progressive Learning](https://drive.google.com/file/d/1mmCUj90rHyuO1SmpLt361youh-07Y0sD/view?usp=share_link)** with [Repo](https://github.com/fh2019ustc/DocScanner).
 
@@ -6,7 +9,7 @@
 # DocTr++
 ![Demo](assets/github_demo.png)
 ![Demo](assets/github_demo_v2.png)
-> **DocTr++: Deep Unrestricted Document Image Rectification**
+> **[DocTr++: Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796)**
 
 > DocTr++ is an enhanced version of the original [DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction](https://github.com/fh2019ustc/DocTr), aiming to rectify various distorted document images in the wild,
 whether or not the document is fully present in the image.
@@ -14,7 +17,16 @@ whether or not the document is fully present in the image.
 Any questions or discussions are welcomed!
 
 
-## Demo 
+## 🚀 Demo [(Link)](https://doctrp.docscanner.top/)
+1. Upload the distorted document image to be rectified in the left box.
+2. Click the "Submit" button.
+3. The rectified image will be displayed in the right box.
+
+![image](https://user-images.githubusercontent.com/50725551/232952015-15508ad6-e38c-475b-bf9e-91cb74bc5fea.png)
+
+
+
+## Inference 
 1. Put the pretrained model to `$ROOT/model_pretrained/`.
 2. Put the distorted images in `$ROOT/distorted/`.
 3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
