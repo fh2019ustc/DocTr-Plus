@@ -21,6 +21,7 @@ Any questions or discussions are welcomed!
 1. Upload the distorted document image to be rectified in the left box.
 2. Click the "Submit" button.
 3. The rectified image will be displayed in the right box.
+4. Our demo runs on CPU infrastructure and may experience display latency due to image transmission over the network. 
 
 ![image](https://user-images.githubusercontent.com/50725551/232952015-15508ad6-e38c-475b-bf9e-91cb74bc5fea.png)
 
