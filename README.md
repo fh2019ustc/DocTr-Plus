@@ -17,7 +17,7 @@ whether or not the document is fully present in the image.
 Any questions or discussions are welcomed!
 
 
-## 🚀 Demo [(Link)](https://doctrp.docscanner.top/)
+## 🚀 Demo [(Link)](https://demo.doctrp.top/)
 1. Upload the distorted document image to be rectified in the left box.
 2. Click the "Submit" button.
 3. The rectified image will be displayed in the right box.
