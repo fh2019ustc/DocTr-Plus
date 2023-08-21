@@ -23,7 +23,7 @@ Any questions or discussions are welcomed!
 3. The rectified image will be displayed in the right box.
 4. Our demo environment is based on a CPU infrastructure, and due to image transmission over the network, some display latency may be experienced.
 
-![image](https://user-images.githubusercontent.com/50725551/232952015-15508ad6-e38c-475b-bf9e-91cb74bc5fea.png)
+[![Alt text](https://user-images.githubusercontent.com/50725551/232952015-15508ad6-e38c-475b-bf9e-91cb74bc5fea.png)](https://demo.doctrp.top/)
 
 
 
