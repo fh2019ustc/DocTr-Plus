@@ -59,7 +59,7 @@ If you find this code useful for your research, please use the following BibTeX 
 @article{feng2023doctrp,
   title={Deep Unrestricted Document Image Rectification},
   author={Feng, Hao and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
-  journal={arXiv},
+  journal={IEEE Transactions on Multimedia, 2023},
   year={2023}
 }
 ```
