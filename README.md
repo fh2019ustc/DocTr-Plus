@@ -1,4 +1,4 @@
-🔥 **Good news! Our work has been accepted by the IEEE Transactions on Multimedia.**
+🔥 **Good news! Our work has been accepted by IEEE Transactions on Multimedia.**
 
 🚀 **Exciting update! We have created a demo for our paper, showcasing the generic rectification capabilities of our method. [Check it out here!](https://doctrp.docscanner.top/)**
 
