@@ -9,9 +9,9 @@
 # DocTr++
 
 <p>
-    <a href='https://project.doctrp.top/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-    <a href='https://arxiv.org/abs/2304.08796'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-    <a href='https://demo.doctrp.top/'><img src='https://img.shields.io/badge/Online-Demo-green'></a>
+    <a href='https://project.doctrp.top/' target="_blank"><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+    <a href='https://arxiv.org/abs/2304.08796' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://demo.doctrp.top/' target="_blank"><img src='https://img.shields.io/badge/Online-Demo-green'></a>
 </p>
   
 
