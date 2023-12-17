@@ -7,6 +7,14 @@
 🔥 **Good news! A comprehensive list of [Awesome Document Image Rectification](https://github.com/fh2019ustc/Awesome-Document-Image-Rectification) methods is available.** 
 
 # DocTr++
+
+<p>
+    <a href='https://project.doctrp.top/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+    <a href='https://arxiv.org/abs/2304.08796'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://demo.doctrp.top/'><img src='https://img.shields.io/badge/Online-Demo-green'></a>
+</p>
+  
+
 ![Demo](assets/github_demo.png)
 ![Demo](assets/github_demo_v2.png)
 > **[DocTr++: Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796)**
