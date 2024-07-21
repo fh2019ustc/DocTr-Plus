@@ -1,8 +1,5 @@
 # License
 
-```markdown
-# Custom License for Deep Learning Algorithm
-
 Copyright © Hao Feng 2024. All Rights Reserved.
 
 ## 1. Definitions
@@ -55,4 +52,3 @@ In no event and under no legal theory, whether in tort (including negligence), c
 By using the Algorithm, you acknowledge that you have read this license, understand it, and agree to be bound by its terms and conditions. If you do not agree to the terms and conditions of this license, do not use, modify, or distribute the Algorithm.
 
 For permissions beyond the scope of this license, please contact the Author at haof@mail.ustc.edu.cn.
-```
