@@ -1,3 +1,6 @@
+# License
+
+```markdown
 # Custom License for Deep Learning Algorithm
 
 Copyright © Hao Feng 2024. All Rights Reserved.
@@ -6,7 +9,7 @@ Copyright © Hao Feng 2024. All Rights Reserved.
 
 1.1 "Algorithm" refers to the deep learning algorithm contained in this repository, including all associated code, documentation, and data.
 
-1.2 "Author" refers to [Your Full Name], the creator and copyright holder of the Algorithm.
+1.2 "Author" refers to Hao Feng, the creator and copyright holder of the Algorithm.
 
 1.3 "Non-Commercial Use" means use for academic research, personal study, or non-profit projects, without any direct or indirect commercial advantage.
 
@@ -26,7 +29,7 @@ Copyright © Hao Feng 2024. All Rights Reserved.
     c) No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything this license permits.
 
 3.2 For Commercial Use:
-    a) Prior Contact: Before any Commercial Use, you must contact the Author at [Your Email Address] and obtain explicit written permission.
+    a) Prior Contact: Before any Commercial Use, you must contact the Author at haof@mail.ustc.edu.cn and obtain explicit written permission.
     b) Separate Agreement: Commercial Use terms will be stipulated in a separate commercial license agreement.
 
 ## 4. Disclaimer of Warranty
@@ -52,3 +55,4 @@ In no event and under no legal theory, whether in tort (including negligence), c
 By using the Algorithm, you acknowledge that you have read this license, understand it, and agree to be bound by its terms and conditions. If you do not agree to the terms and conditions of this license, do not use, modify, or distribute the Algorithm.
 
 For permissions beyond the scope of this license, please contact the Author at haof@mail.ustc.edu.cn.
+```
