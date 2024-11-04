@@ -76,4 +76,4 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 
 ## Contact
-For commercial usage, please contact Professor Wengang Zhou ([zhwg@ustc.edu.cn](zhwg@ustc.edu.cn)) and Hao Feng ([haof@mail.ustc.edu.cn](haof@mail.ustc.edu.cn)).
+For commercial usage, please contact Hao Feng ([haof@mail.ustc.edu.cn](haof@mail.ustc.edu.cn)).
