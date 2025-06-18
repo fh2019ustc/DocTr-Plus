@@ -67,10 +67,12 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 
 ```
-@article{feng2023doctrp,
-  title={Deep Unrestricted Document Image Rectification},
+@article{feng2023deep,
+  title={Deep unrestricted document image rectification},
   author={Feng, Hao and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
   journal={IEEE Transactions on Multimedia},
+  volume={26},
+  pages={6142--6154},
   year={2023}
 }
 ```
